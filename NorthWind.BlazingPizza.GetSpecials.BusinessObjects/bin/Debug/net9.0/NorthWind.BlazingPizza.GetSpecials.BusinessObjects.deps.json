@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NorthWind.BlazingPizza.GetSpecials.BusinessObjects/1.0.0": {
+        "dependencies": {
+          "NorthWind.BlazingPizza.GetSpecials.Entities": "1.0.0"
+        },
+        "runtime": {
+          "NorthWind.BlazingPizza.GetSpecials.BusinessObjects.dll": {}
+        }
+      },
+      "NorthWind.BlazingPizza.GetSpecials.Entities/1.0.0": {
+        "runtime": {
+          "NorthWind.BlazingPizza.GetSpecials.Entities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NorthWind.BlazingPizza.GetSpecials.BusinessObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NorthWind.BlazingPizza.GetSpecials.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <InternalsVisibleTo
+      Include="NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider"  />
+  </ItemGroup>
+
+</Project>

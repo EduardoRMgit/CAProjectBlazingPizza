@@ -1,0 +1,15 @@
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.deps.json
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.dll
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.pdb
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.dll
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.pdb
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.csproj.AssemblyReference.cache
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.AssemblyInfoInputs.cache
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.AssemblyInfo.cs
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\obj\Debug\net9.0\NorthWin.5EA9C3E3.Up2Date
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.dll
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\obj\Debug\net9.0\refint\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.dll
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.pdb
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\obj\Debug\net9.0\ref\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.dll

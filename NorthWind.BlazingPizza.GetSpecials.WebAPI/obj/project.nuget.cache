@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwWTn4/xut0=",
+  "success": true,
+  "projectFilePath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.WebAPI\\NorthWind.BlazingPizza.GetSpecials.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\preya\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\preya\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

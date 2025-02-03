@@ -1,0 +1,5 @@
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEFProvider\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEFProvider.csproj.AssemblyReference.cache
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEFProvider\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEFProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEFProvider\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEFProvider.AssemblyInfoInputs.cache
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEFProvider\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEFProvider.AssemblyInfo.cs
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEFProvider\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEFProvider.csproj.CoreCompileInputs.cache
