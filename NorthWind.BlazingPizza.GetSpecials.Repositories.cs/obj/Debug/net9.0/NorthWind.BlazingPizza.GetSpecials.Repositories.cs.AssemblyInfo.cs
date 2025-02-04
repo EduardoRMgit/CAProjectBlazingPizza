@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NorthWind.BlazingPizza.GetSpecials.Repositories.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c76ad229ffa86ae1f3290236e20ace863e93c97e")]
 [assembly: System.Reflection.AssemblyProductAttribute("NorthWind.BlazingPizza.GetSpecials.Repositories.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NorthWind.BlazingPizza.GetSpecials.Repositories.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

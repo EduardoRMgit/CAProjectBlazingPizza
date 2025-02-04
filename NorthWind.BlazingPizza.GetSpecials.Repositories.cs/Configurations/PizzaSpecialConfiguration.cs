@@ -16,7 +16,7 @@ namespace NorthWind.BlazingPizza.GetSpecials.Repositories.cs.Configurations
             builder.Property(s => s.BasePrice)
                 .HasPrecision(8, 2);
 
-            builder.HasData([
+            builder.HasData(
                     new PizzaSpecial
                     {
                         Id = 1,
@@ -82,7 +82,7 @@ namespace NorthWind.BlazingPizza.GetSpecials.Repositories.cs.Configurations
                         ImageUrl = "margherita.jpg"
                     }
 
-            ]);
+            );
         }
     }
 }

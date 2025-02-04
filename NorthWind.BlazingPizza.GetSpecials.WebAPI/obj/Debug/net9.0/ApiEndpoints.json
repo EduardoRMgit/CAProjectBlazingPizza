@@ -1,0 +1,20 @@
+[
+  {
+    "ContainingType": "NorthWind.BlazingPizza.GetSpecials.WebAPI.EndpointsContainer\u002B\u003C\u003Ec",
+    "Method": "\u003CMapGetSpecialEndpoint\u003Eb__0_0",
+    "RelativePath": "api/PizzaSpecials",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[NorthWind.BlazingPizza.GetSpecials.Entities.Dtos.PizzaSpecialDto, NorthWind.BlazingPizza.GetSpecials.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

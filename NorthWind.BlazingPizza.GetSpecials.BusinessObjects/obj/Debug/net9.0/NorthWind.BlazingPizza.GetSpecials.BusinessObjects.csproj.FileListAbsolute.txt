@@ -13,3 +13,4 @@ C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObj
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\obj\Debug\net9.0\refint\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\obj\Debug\net9.0\ref\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.dll
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.sourcelink.json

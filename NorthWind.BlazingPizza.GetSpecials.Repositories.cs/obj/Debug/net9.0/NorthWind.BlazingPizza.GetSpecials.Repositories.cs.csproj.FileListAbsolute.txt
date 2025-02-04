@@ -15,3 +15,4 @@ C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositorie
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\obj\Debug\net9.0\refint\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\obj\Debug\net9.0\ref\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.dll
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.sourcelink.json

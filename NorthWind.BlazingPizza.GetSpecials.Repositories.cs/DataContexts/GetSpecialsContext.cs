@@ -13,9 +13,7 @@ namespace NorthWind.BlazingPizza.GetSpecials.Repositories.cs.DataContexts
 
         // Db context implementa el patrón repositorio, para que implemento un repositorio si voy a utilizar entity framework que ya implemente repositorio.
         // y el patrón unit of work. Save Changes async.
-
-        // entity framework tiene un conjunto de registro de datos, voy a verificar si alguno de esos objetos se modificó.
-
+        // entity framework tiene un conjunto de registro de datos, voy a verificar si alguno de esos objetos se modificó
         // update. No hay que perder el tiempo entity framework de llevar un seguimiento de los cambios.
     {
         public GetSpecialsContext(DbContextOptions<GetSpecialsContext> options) : base(options)
@@ -26,6 +24,7 @@ namespace NorthWind.BlazingPizza.GetSpecials.Repositories.cs.DataContexts
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            Console.WriteLine("Aplicando fixtures de pizzas");
             modelBuilder.ApplyConfigurationsFromAssembly(
                 typeof(PizzaSpecialConfiguration).Assembly);
         }

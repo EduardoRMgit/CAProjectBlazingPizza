@@ -9,3 +9,4 @@ C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Entities\ob
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Entities\obj\Debug\net9.0\refint\NorthWind.BlazingPizza.GetSpecials.Entities.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Entities\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Entities\obj\Debug\net9.0\ref\NorthWind.BlazingPizza.GetSpecials.Entities.dll
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Entities\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.sourcelink.json

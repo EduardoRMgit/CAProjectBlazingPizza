@@ -17,3 +17,4 @@ C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntit
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\obj\Debug\net9.0\refint\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\obj\Debug\net9.0\ref\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.dll
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.sourcelink.json

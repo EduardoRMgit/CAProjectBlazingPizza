@@ -16,6 +16,7 @@
   <ItemGroup>
     <InternalsVisibleTo
       Include="NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider"  />
+
   </ItemGroup>
 
 </Project>
