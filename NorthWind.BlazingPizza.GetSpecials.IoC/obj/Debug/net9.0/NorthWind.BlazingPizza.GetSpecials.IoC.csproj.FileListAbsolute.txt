@@ -3,13 +3,11 @@ C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\bin\Deb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.IoC.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Core.dll
-C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Core.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.pdb
-C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.IoC.csproj.AssemblyReference.cache
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.IoC.GeneratedMSBuildEditorConfig.editorconfig
@@ -22,3 +20,5 @@ C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\obj\Deb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\obj\Debug\net9.0\refint\NorthWind.BlazingPizza.GetSpecials.IoC.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.IoC.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\obj\Debug\net9.0\ref\NorthWind.BlazingPizza.GetSpecials.IoC.dll
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.dll
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.IoC\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.pdb

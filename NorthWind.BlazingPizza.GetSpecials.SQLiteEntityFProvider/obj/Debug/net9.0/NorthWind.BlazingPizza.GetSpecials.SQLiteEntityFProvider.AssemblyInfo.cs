@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c76ad229ffa86ae1f3290236e20ace863e93c97e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6aa8fff913eb454d616f046cc0f5ca456d5f49e")]
 [assembly: System.Reflection.AssemblyProductAttribute("NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

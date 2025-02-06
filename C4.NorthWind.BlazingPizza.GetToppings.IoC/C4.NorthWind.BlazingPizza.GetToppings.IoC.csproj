@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\C3.NorthWind.BlazingPizza.GetToppings.Core\C3.NorthWind.BlazingPizza.GetToppings.Core.csproj" />
+    <ProjectReference Include="..\C3.NorthWind.BlazingPizza.GetToppings.Repositories\C3.NorthWind.BlazingPizza.GetToppings.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

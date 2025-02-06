@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "scH5oam8otA=",
+  "success": true,
+  "projectFilePath": "C:\\introCA\\NorthWind.BlazingPizza\\C3.NorthWind.BlazingPizza.GetToppings.Core\\C3.NorthWind.BlazingPizza.GetToppings.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\preya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

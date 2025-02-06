@@ -7,14 +7,14 @@ C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntit
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.dll
-C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.pdb
-C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\obj\Debug\net9.0\NorthWin.84B419D0.Up2Date
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\obj\Debug\net9.0\refint\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\obj\Debug\net9.0\ref\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.sourcelink.json
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.dll
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.pdb

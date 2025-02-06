@@ -53,14 +53,12 @@ C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Core.dll
-C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.IoC.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.IoC.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Core.pdb
-C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.WebAPI.csproj.AssemblyReference.cache
@@ -88,3 +86,5 @@ C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\obj\
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.WebAPI.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.WebAPI.genruntimeconfig.cache
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\obj\Debug\net9.0\ref\NorthWind.BlazingPizza.GetSpecials.WebAPI.dll
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.dll
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.WebAPI\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.pdb

@@ -25,7 +25,6 @@ namespace NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider
         // para que sirve?
         public static IHost InitializeGetSpecialDB(this IHost app)
         {
-            Console.WriteLine("Se está creando la wea?");
             using IServiceScope Scope = app.Services.CreateScope();
             var Context = Scope.ServiceProvider.GetRequiredService<GetSpecialsContext>();
 

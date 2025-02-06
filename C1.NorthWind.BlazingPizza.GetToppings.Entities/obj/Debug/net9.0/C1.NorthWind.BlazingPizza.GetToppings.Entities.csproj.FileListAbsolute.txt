@@ -1,0 +1,12 @@
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.GetToppings.Entities\bin\Debug\net9.0\C1.NorthWind.BlazingPizza.GetToppings.Entities.deps.json
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.GetToppings.Entities\bin\Debug\net9.0\C1.NorthWind.BlazingPizza.GetToppings.Entities.dll
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.GetToppings.Entities\bin\Debug\net9.0\C1.NorthWind.BlazingPizza.GetToppings.Entities.pdb
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.GetToppings.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.GetToppings.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.GetToppings.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.GetToppings.Entities.AssemblyInfoInputs.cache
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.GetToppings.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.GetToppings.Entities.AssemblyInfo.cs
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.GetToppings.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.GetToppings.Entities.csproj.CoreCompileInputs.cache
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.GetToppings.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.GetToppings.Entities.sourcelink.json
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.GetToppings.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.GetToppings.Entities.dll
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.GetToppings.Entities\obj\Debug\net9.0\refint\C1.NorthWind.BlazingPizza.GetToppings.Entities.dll
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.GetToppings.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.GetToppings.Entities.pdb
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.GetToppings.Entities\obj\Debug\net9.0\ref\C1.NorthWind.BlazingPizza.GetToppings.Entities.dll

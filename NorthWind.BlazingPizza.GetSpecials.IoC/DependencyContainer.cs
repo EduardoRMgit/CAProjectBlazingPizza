@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 
 namespace NorthWind.BlazingPizza.GetSpecials.IoC
 {
+    // concentrar el registro de servicios de todo el caso de uso, entonces, aquí seguro falta algo.
     public static class DependencyContainer
     {
         public static IServiceCollection AddGetSpecialsServices(
@@ -19,7 +20,8 @@ namespace NorthWind.BlazingPizza.GetSpecials.IoC
             Action<GetSpecialsOptions> configureGetSpecialsOptions,
             Action<GetSpecialsDBOptions> configureGetSpecialsDbOptions)
         {
-            services.AddGetSpecialsCoreServices(configureGetSpecialsOptions)
+            services
+                .AddGetSpecialsCoreServices(configureGetSpecialsOptions)
                 .AddGetSpecialsRepository()
                 .AddSQLiteProvider(configureGetSpecialsDbOptions);
 

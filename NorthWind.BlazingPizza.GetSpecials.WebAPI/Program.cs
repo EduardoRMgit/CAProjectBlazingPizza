@@ -6,11 +6,9 @@ using NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddGetSpecialsServices(
-    options => builder.Configuration.GetSection(GetSpecialsOptions.SectionKey).Bind(options),
-    dbOptions => builder.Configuration.GetSection(GetSpecialsDBOptions.SectionKey).Bind(dbOptions)
-);
+builder.AddGetSpecialsServices();
 
+// quieren que se consuma por un criente blazor o js.
 // Configurar CORS (igual que en NorthWind.Sales)
 builder.Services.AddCors(options =>
 {
@@ -21,16 +19,16 @@ builder.Services.AddCors(options =>
         config.AllowAnyHeader();
     });
 });
-
 var app = builder.Build();
 
-app.InitializeGetSpecialDB();
-
 // Habilitar CORS
-app.UseCors();
 
-// Mapear Endpoints usando el Contenedor de Endpoints
-app.MapGetSpecialEndpoint();
+//// Mapear Endpoints usando el Contenedor de Endpoints
+//app.MapGetSpecialEndpoint();
 
+// middleware.
 app.UseHttpsRedirection();
+app.UseGetSpecialsEndpoint();
+app.InitializeGetSpecialDB();
+app.UseCors();
 app.Run();

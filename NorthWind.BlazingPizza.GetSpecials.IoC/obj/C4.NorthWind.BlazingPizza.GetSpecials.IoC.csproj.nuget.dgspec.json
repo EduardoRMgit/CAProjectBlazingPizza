@@ -1,0 +1,453 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.IoC\\C4.NorthWind.BlazingPizza.GetSpecials.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.csproj",
+        "projectName": "NorthWind.BlazingPizza.GetSpecials.BusinessObjects",
+        "projectPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\preya\\.nuget\\packages\\",
+        "outputPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\preya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Entities\\NorthWind.BlazingPizza.GetSpecials.Entities.csproj": {
+                "projectPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Entities\\NorthWind.BlazingPizza.GetSpecials.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Core\\NorthWind.BlazingPizza.GetSpecials.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Core\\NorthWind.BlazingPizza.GetSpecials.Core.csproj",
+        "projectName": "NorthWind.BlazingPizza.GetSpecials.Core",
+        "projectPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Core\\NorthWind.BlazingPizza.GetSpecials.Core.csproj",
+        "packagesPath": "C:\\Users\\preya\\.nuget\\packages\\",
+        "outputPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\preya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.csproj": {
+                "projectPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Entities\\NorthWind.BlazingPizza.GetSpecials.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Entities\\NorthWind.BlazingPizza.GetSpecials.Entities.csproj",
+        "projectName": "NorthWind.BlazingPizza.GetSpecials.Entities",
+        "projectPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Entities\\NorthWind.BlazingPizza.GetSpecials.Entities.csproj",
+        "packagesPath": "C:\\Users\\preya\\.nuget\\packages\\",
+        "outputPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\preya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.IoC\\C4.NorthWind.BlazingPizza.GetSpecials.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.IoC\\C4.NorthWind.BlazingPizza.GetSpecials.IoC.csproj",
+        "projectName": "C4.NorthWind.BlazingPizza.GetSpecials.IoC",
+        "projectPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.IoC\\C4.NorthWind.BlazingPizza.GetSpecials.IoC.csproj",
+        "packagesPath": "C:\\Users\\preya\\.nuget\\packages\\",
+        "outputPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\preya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Core\\NorthWind.BlazingPizza.GetSpecials.Core.csproj": {
+                "projectPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Core\\NorthWind.BlazingPizza.GetSpecials.Core.csproj"
+              },
+              "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\\C4.NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.csproj": {
+                "projectPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\\C4.NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.csproj",
+        "projectName": "NorthWind.BlazingPizza.GetSpecials.Repositories.cs",
+        "projectPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.csproj",
+        "packagesPath": "C:\\Users\\preya\\.nuget\\packages\\",
+        "outputPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\preya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.csproj": {
+                "projectPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects\\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\\C4.NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\\C4.NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.csproj",
+        "projectName": "C4.NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider",
+        "projectPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\\C4.NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider.csproj",
+        "packagesPath": "C:\\Users\\preya\\.nuget\\packages\\",
+        "outputPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.SQLiteEntityFProvider\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\preya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.csproj": {
+                "projectPath": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

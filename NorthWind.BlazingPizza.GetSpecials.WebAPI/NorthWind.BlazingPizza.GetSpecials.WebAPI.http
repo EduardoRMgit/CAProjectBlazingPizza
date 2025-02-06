@@ -1,4 +1,4 @@
 @BlazingPizzaAPI_HostAddress = https://localhost:7223
 
-GET {{BlazingPizzaAPI_HostAddress}}/api/PizzaSpecials/
+GET {{BlazingPizzaAPI_HostAddress}}/getspecials/
 Accept: application/json

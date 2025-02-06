@@ -2,9 +2,7 @@ C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositorie
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.dll
-C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.BusinessObjects.pdb
-C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.csproj.AssemblyReference.cache
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.GeneratedMSBuildEditorConfig.editorconfig
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.AssemblyInfoInputs.cache
@@ -16,3 +14,5 @@ C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositorie
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.pdb
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\obj\Debug\net9.0\ref\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.dll
 C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\obj\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Repositories.cs.sourcelink.json
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.dll
+C:\introCA\NorthWind.BlazingPizza\NorthWind.BlazingPizza.GetSpecials.Repositories.cs\bin\Debug\net9.0\NorthWind.BlazingPizza.GetSpecials.Entities.pdb

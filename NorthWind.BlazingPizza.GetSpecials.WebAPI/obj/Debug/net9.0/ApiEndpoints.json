@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "NorthWind.BlazingPizza.GetSpecials.WebAPI.EndpointsContainer\u002B\u003C\u003Ec",
-    "Method": "\u003CMapGetSpecialEndpoint\u003Eb__0_0",
-    "RelativePath": "api/PizzaSpecials",
+    "ContainingType": "NorthWind.BlazingPizza.GetSpecials.WebAPI.Middlewares\u002B\u003C\u003Ec",
+    "Method": "\u003CUseGetSpecialsEndpoint\u003Eb__0_0",
+    "RelativePath": "getspecials/",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
