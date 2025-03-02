@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8TUEl7NdZY6HTIfR6hUQoC5SqcY870FBkAdi820XAd8=",
+  "Source": "NorthWind.BlazingPizza.WebAPI",
+  "BasePath": "_content/NorthWind.BlazingPizza.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

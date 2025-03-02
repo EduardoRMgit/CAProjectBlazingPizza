@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "NorthWind.BlazingPizza.WebAPI.Middlewares\u002B\u003C\u003Ec",
+    "Method": "\u003CUseBlazingPizzaEndPoints\u003Eb__0_0",
+    "RelativePath": "GetToppings",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[C1.NorthWind.BlazingPizza.GetToppings.Entities.Dtos.ToppingDto, C1.NorthWind.BlazingPizza.GetToppings.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "NorthWind.BlazingPizza.WebAPI.Middlewares\u002B\u003C\u003Ec",
+    "Method": "\u003CUseBlazingPizzaEndPoints\u003Eb__0_1",
+    "RelativePath": "PlaceOrder",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities.Dtos.PlaceOrderOrderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

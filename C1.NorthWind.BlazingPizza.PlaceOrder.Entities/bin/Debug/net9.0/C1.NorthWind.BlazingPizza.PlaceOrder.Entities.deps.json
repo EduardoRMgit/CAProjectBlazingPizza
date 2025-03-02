@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "C1.NorthWind.BlazingPizza.PlaceOrder.Entities/1.0.0": {
+        "dependencies": {
+          "NorthWind.DomainValidation": "1.0.0"
+        },
+        "runtime": {
+          "C1.NorthWind.BlazingPizza.PlaceOrder.Entities.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.2": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "NorthWind.DomainValidation/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.2"
+        },
+        "runtime": {
+          "lib/net9.0/NorthWind.DomainValidation.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C1.NorthWind.BlazingPizza.PlaceOrder.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MNe7GSTBf3jQx5vYrXF0NZvn6l7hUKF6J54ENfAgCO8y6xjN1XUmKKWG464LP2ye6QqDiA1dkaWEZBYnhoZzjg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.2",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+    },
+    "NorthWind.DomainValidation/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hWalUp+h1/w/ekSbZk0VjlJCjPDtFNUc+kB4Sz7Na1sHqsAFw8YqDh2l19BFWfYdZTL9CQVoJKZ2mEW3fayzOg==",
+      "path": "northwind.domainvalidation/1.0.0",
+      "hashPath": "northwind.domainvalidation.1.0.0.nupkg.sha512"
+    }
+  }
+}

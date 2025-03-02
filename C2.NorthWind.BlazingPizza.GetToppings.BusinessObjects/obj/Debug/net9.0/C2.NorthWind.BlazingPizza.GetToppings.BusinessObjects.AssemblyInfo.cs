@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C2.NorthWind.BlazingPizza.GetToppings.BusinessObjects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6aa8fff913eb454d616f046cc0f5ca456d5f49e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bad36336b49846c8577b9ff9f9ff124d0d81b2f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("C2.NorthWind.BlazingPizza.GetToppings.BusinessObjects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C2.NorthWind.BlazingPizza.GetToppings.BusinessObjects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.2" />
   </ItemGroup>
 
   <ItemGroup>
@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <InternalsVisibleTo Include="C4.NorthWind.BlazingPizza.DataContexts"/>
+    <InternalsVisibleTo Include="C4.NorthWind.BlazingPizza.DataContexts" />
   </ItemGroup>
   
 </Project>

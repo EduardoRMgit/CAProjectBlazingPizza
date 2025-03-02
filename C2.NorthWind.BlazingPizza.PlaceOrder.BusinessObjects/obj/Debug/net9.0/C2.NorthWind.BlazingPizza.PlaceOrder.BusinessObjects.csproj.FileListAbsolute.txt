@@ -1,0 +1,16 @@
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\bin\Debug\net9.0\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.deps.json
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\bin\Debug\net9.0\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.dll
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\bin\Debug\net9.0\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.pdb
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\bin\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.dll
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\bin\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.pdb
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\obj\Debug\net9.0\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.csproj.AssemblyReference.cache
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\obj\Debug\net9.0\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\obj\Debug\net9.0\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.AssemblyInfoInputs.cache
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\obj\Debug\net9.0\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.AssemblyInfo.cs
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\obj\Debug\net9.0\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\obj\Debug\net9.0\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.sourcelink.json
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\obj\Debug\net9.0\C2.North.699EA507.Up2Date
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\obj\Debug\net9.0\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.dll
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\obj\Debug\net9.0\refint\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.dll
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\obj\Debug\net9.0\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.pdb
+C:\introCA\NorthWind.BlazingPizza\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\obj\Debug\net9.0\ref\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.dll

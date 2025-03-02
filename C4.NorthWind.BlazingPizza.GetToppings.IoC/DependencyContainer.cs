@@ -1,4 +1,5 @@
-﻿using C3.NorthWind.BlazingPizza.GetToppings.Repositories;
+﻿using C3.NorthWind.BlazingPizza.GetToppings.Core;
+using C3.NorthWind.BlazingPizza.GetToppings.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -13,7 +14,7 @@ namespace C4.NorthWind.BlazingPizza.GetToppings.IoC
         public static IServiceCollection AddGetToppingsServices(
             this IServiceCollection services)
         {
-            services.AddGetToppingsServices()
+            services.AddGetToppingsCoreServices()
                 .AddGetToppingsRepository();
             return services;
         }

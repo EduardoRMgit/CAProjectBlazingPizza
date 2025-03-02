@@ -3,8 +3,68 @@
   "WorkspaceRootPath": "C:\\introCA\\NorthWind.BlazingPizza\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\introCA\\NorthWind.BlazingPizza\\C4.NorthWind.BlazingPizza.DataContexts\\Migrations\\20250205231931_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C4.NorthWind.BlazingPizza.DataContexts\\Migrations\\20250205231931_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A4FC560-BFF4-4652-923C-F47089E5F950}|C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj|c:\\introca\\northwind.blazingpizza\\c1.northwind.blazingpizza.placeorder.entities\\specifications\\placeorderorderdtospecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4FC560-BFF4-4652-923C-F47089E5F950}|C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj|solutionrelative:c1.northwind.blazingpizza.placeorder.entities\\specifications\\placeorderorderdtospecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BD4CD0-49AA-4DC7-A6AB-0A5FD9173AC2}|C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.csproj|c:\\introca\\northwind.blazingpizza\\c2.northwind.blazingpizza.placeorder.businessobjects\\c2.northwind.blazingpizza.placeorder.businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19BD4CD0-49AA-4DC7-A6AB-0A5FD9173AC2}|C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.csproj|solutionrelative:c2.northwind.blazingpizza.placeorder.businessobjects\\c2.northwind.blazingpizza.placeorder.businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF163246-3ED6-463F-ABAF-00CAA673DDAE}|C3.NorthWind.BlazingPizza.PlaceOrder.Core\\C3.NorthWind.BlazingPizza.PlaceOrder.Core.csproj|c:\\introca\\northwind.blazingpizza\\c3.northwind.blazingpizza.placeorder.core\\interactor\\placeorderinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF163246-3ED6-463F-ABAF-00CAA673DDAE}|C3.NorthWind.BlazingPizza.PlaceOrder.Core\\C3.NorthWind.BlazingPizza.PlaceOrder.Core.csproj|solutionrelative:c3.northwind.blazingpizza.placeorder.core\\interactor\\placeorderinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4FC560-BFF4-4652-923C-F47089E5F950}|C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj|c:\\introca\\northwind.blazingpizza\\c1.northwind.blazingpizza.placeorder.entities\\dtos\\placeorderpizzadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4FC560-BFF4-4652-923C-F47089E5F950}|C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj|solutionrelative:c1.northwind.blazingpizza.placeorder.entities\\dtos\\placeorderpizzadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4FC560-BFF4-4652-923C-F47089E5F950}|C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj|c:\\introca\\northwind.blazingpizza\\c1.northwind.blazingpizza.placeorder.entities\\dtos\\placeorderorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4FC560-BFF4-4652-923C-F47089E5F950}|C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj|solutionrelative:c1.northwind.blazingpizza.placeorder.entities\\dtos\\placeorderorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4FC560-BFF4-4652-923C-F47089E5F950}|C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj|c:\\introca\\northwind.blazingpizza\\c1.northwind.blazingpizza.placeorder.entities\\specifications\\placeorderorderdtonotemptyspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4FC560-BFF4-4652-923C-F47089E5F950}|C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj|solutionrelative:c1.northwind.blazingpizza.placeorder.entities\\specifications\\placeorderorderdtonotemptyspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4FC560-BFF4-4652-923C-F47089E5F950}|C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj|c:\\introca\\northwind.blazingpizza\\c1.northwind.blazingpizza.placeorder.entities\\specifications\\placeorderaddressdtospecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4FC560-BFF4-4652-923C-F47089E5F950}|C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj|solutionrelative:c1.northwind.blazingpizza.placeorder.entities\\specifications\\placeorderaddressdtospecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4FC560-BFF4-4652-923C-F47089E5F950}|C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj|c:\\introca\\northwind.blazingpizza\\c1.northwind.blazingpizza.placeorder.entities\\dtos\\placeorderaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4FC560-BFF4-4652-923C-F47089E5F950}|C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj|solutionrelative:c1.northwind.blazingpizza.placeorder.entities\\dtos\\placeorderaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADCE6BE-F49E-443C-9AF3-CD80E2704FE1}|NorthWind.BlazingPizza.WebAPI\\NorthWind.BlazingPizza.WebAPI.csproj|c:\\introca\\northwind.blazingpizza\\northwind.blazingpizza.webapi\\northwind.blazingpizza.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FADCE6BE-F49E-443C-9AF3-CD80E2704FE1}|NorthWind.BlazingPizza.WebAPI\\NorthWind.BlazingPizza.WebAPI.csproj|solutionrelative:northwind.blazingpizza.webapi\\northwind.blazingpizza.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4FC560-BFF4-4652-923C-F47089E5F950}|C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj|c:\\introca\\northwind.blazingpizza\\c1.northwind.blazingpizza.placeorder.entities\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4FC560-BFF4-4652-923C-F47089E5F950}|C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj|solutionrelative:c1.northwind.blazingpizza.placeorder.entities\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADCE6BE-F49E-443C-9AF3-CD80E2704FE1}|NorthWind.BlazingPizza.WebAPI\\NorthWind.BlazingPizza.WebAPI.csproj|c:\\introca\\northwind.blazingpizza\\northwind.blazingpizza.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADCE6BE-F49E-443C-9AF3-CD80E2704FE1}|NorthWind.BlazingPizza.WebAPI\\NorthWind.BlazingPizza.WebAPI.csproj|solutionrelative:northwind.blazingpizza.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D3F21E-BF0E-4D20-8835-B392299AA957}|C3.NorthWind.BlazingPizza.GetToppings.Core\\C3.NorthWind.BlazingPizza.GetToppings.Core.csproj|c:\\introca\\northwind.blazingpizza\\c3.northwind.blazingpizza.gettoppings.core\\interactor\\gettoppingsinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D3F21E-BF0E-4D20-8835-B392299AA957}|C3.NorthWind.BlazingPizza.GetToppings.Core\\C3.NorthWind.BlazingPizza.GetToppings.Core.csproj|solutionrelative:c3.northwind.blazingpizza.gettoppings.core\\interactor\\gettoppingsinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40949566-16DA-4747-B926-8E6D188B1E9D}|NorthWind.BlazingPizza.PlaceOrder.IoC\\C3.NorthWind.BlazingPizza.PlaceOrder.IoC.csproj|c:\\introca\\northwind.blazingpizza\\northwind.blazingpizza.placeorder.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40949566-16DA-4747-B926-8E6D188B1E9D}|NorthWind.BlazingPizza.PlaceOrder.IoC\\C3.NorthWind.BlazingPizza.PlaceOrder.IoC.csproj|solutionrelative:northwind.blazingpizza.placeorder.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF163246-3ED6-463F-ABAF-00CAA673DDAE}|C3.NorthWind.BlazingPizza.PlaceOrder.Core\\C3.NorthWind.BlazingPizza.PlaceOrder.Core.csproj|c:\\introca\\northwind.blazingpizza\\c3.northwind.blazingpizza.placeorder.core\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF163246-3ED6-463F-ABAF-00CAA673DDAE}|C3.NorthWind.BlazingPizza.PlaceOrder.Core\\C3.NorthWind.BlazingPizza.PlaceOrder.Core.csproj|solutionrelative:c3.northwind.blazingpizza.placeorder.core\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5B9B8F-FBBB-42EE-8AB2-7B19F0F8FA1E}|C3.NorthWind.BlazingPizza.PlaceOrder.Repositories\\C3.NorthWind.BlazingPizza.PlaceOrder.Repositories.csproj|c:\\introca\\northwind.blazingpizza\\c3.northwind.blazingpizza.placeorder.repositories\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5B9B8F-FBBB-42EE-8AB2-7B19F0F8FA1E}|C3.NorthWind.BlazingPizza.PlaceOrder.Repositories\\C3.NorthWind.BlazingPizza.PlaceOrder.Repositories.csproj|solutionrelative:c3.northwind.blazingpizza.placeorder.repositories\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C803D641-A7E9-4EF3-A897-287207F20988}|C4.NorthWind.BlazingPizza.DataContexts\\C4.NorthWind.BlazingPizza.DataContexts.csproj|c:\\introca\\northwind.blazingpizza\\c4.northwind.blazingpizza.datacontexts\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C803D641-A7E9-4EF3-A897-287207F20988}|C4.NorthWind.BlazingPizza.DataContexts\\C4.NorthWind.BlazingPizza.DataContexts.csproj|solutionrelative:c4.northwind.blazingpizza.datacontexts\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 984,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,17 +93,205 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250205231931_InitialCreate.cs",
-              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\C4.NorthWind.BlazingPizza.DataContexts\\Migrations\\20250205231931_InitialCreate.cs",
-              "RelativeDocumentMoniker": "C4.NorthWind.BlazingPizza.DataContexts\\Migrations\\20250205231931_InitialCreate.cs",
-              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\C4.NorthWind.BlazingPizza.DataContexts\\Migrations\\20250205231931_InitialCreate.cs",
-              "RelativeToolTip": "C4.NorthWind.BlazingPizza.DataContexts\\Migrations\\20250205231931_InitialCreate.cs",
+              "Title": "PlaceOrderOrderDtoSpecification.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Specifications\\PlaceOrderOrderDtoSpecification.cs",
+              "RelativeDocumentMoniker": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Specifications\\PlaceOrderOrderDtoSpecification.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Specifications\\PlaceOrderOrderDtoSpecification.cs",
+              "RelativeToolTip": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Specifications\\PlaceOrderOrderDtoSpecification.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:19:25.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaceOrderOrderDto.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Dtos\\PlaceOrderOrderDto.cs",
+              "RelativeDocumentMoniker": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Dtos\\PlaceOrderOrderDto.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Dtos\\PlaceOrderOrderDto.cs",
+              "RelativeToolTip": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Dtos\\PlaceOrderOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:46:31.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaceOrderPizzaDto.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Dtos\\PlaceOrderPizzaDto.cs",
+              "RelativeDocumentMoniker": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Dtos\\PlaceOrderPizzaDto.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Dtos\\PlaceOrderPizzaDto.cs",
+              "RelativeToolTip": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Dtos\\PlaceOrderPizzaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T23:19:31.438Z",
+              "WhenOpened": "2025-02-28T00:24:22.238Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaceOrderAddressDtoSpecification.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Specifications\\PlaceOrderAddressDtoSpecification.cs",
+              "RelativeDocumentMoniker": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Specifications\\PlaceOrderAddressDtoSpecification.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Specifications\\PlaceOrderAddressDtoSpecification.cs",
+              "RelativeToolTip": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Specifications\\PlaceOrderAddressDtoSpecification.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:19:23.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlaceOrderOrderDtoNotEmptySpecification.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Specifications\\PlaceOrderOrderDtoNotEmptySpecification.cs",
+              "RelativeDocumentMoniker": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Specifications\\PlaceOrderOrderDtoNotEmptySpecification.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Specifications\\PlaceOrderOrderDtoNotEmptySpecification.cs",
+              "RelativeToolTip": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Specifications\\PlaceOrderOrderDtoNotEmptySpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:28:22.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaceOrderInteractor.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\C3.NorthWind.BlazingPizza.PlaceOrder.Core\\Interactor\\PlaceOrderInteractor.cs",
+              "RelativeDocumentMoniker": "C3.NorthWind.BlazingPizza.PlaceOrder.Core\\Interactor\\PlaceOrderInteractor.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\C3.NorthWind.BlazingPizza.PlaceOrder.Core\\Interactor\\PlaceOrderInteractor.cs",
+              "RelativeToolTip": "C3.NorthWind.BlazingPizza.PlaceOrder.Core\\Interactor\\PlaceOrderInteractor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:46:56.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.csproj",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.csproj",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.csproj",
+              "RelativeToolTip": "C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects\\C2.NorthWind.BlazingPizza.PlaceOrder.BusinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T02:26:17.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NorthWind.BlazingPizza.WebAPI.http",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.WebAPI\\NorthWind.BlazingPizza.WebAPI.http",
+              "RelativeDocumentMoniker": "NorthWind.BlazingPizza.WebAPI\\NorthWind.BlazingPizza.WebAPI.http",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.WebAPI\\NorthWind.BlazingPizza.WebAPI.http",
+              "RelativeToolTip": "NorthWind.BlazingPizza.WebAPI\\NorthWind.BlazingPizza.WebAPI.http",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-27T21:07:59.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlaceOrderAddressDto.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Dtos\\PlaceOrderAddressDto.cs",
+              "RelativeDocumentMoniker": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Dtos\\PlaceOrderAddressDto.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Dtos\\PlaceOrderAddressDto.cs",
+              "RelativeToolTip": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\Dtos\\PlaceOrderAddressDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:14:30.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\DependencyContainer.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\DependencyContainer.cs",
+              "RelativeToolTip": "C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\DependencyContainer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:29:26.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "NorthWind.BlazingPizza.WebAPI\\Program.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.WebAPI\\Program.cs",
+              "RelativeToolTip": "NorthWind.BlazingPizza.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAtwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:36:31.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\C3.NorthWind.BlazingPizza.PlaceOrder.Core\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "C3.NorthWind.BlazingPizza.PlaceOrder.Core\\DependencyContainer.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\C3.NorthWind.BlazingPizza.PlaceOrder.Core\\DependencyContainer.cs",
+              "RelativeToolTip": "C3.NorthWind.BlazingPizza.PlaceOrder.Core\\DependencyContainer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:20:42.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetToppingsInteractor.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\C3.NorthWind.BlazingPizza.GetToppings.Core\\Interactor\\GetToppingsInteractor.cs",
+              "RelativeDocumentMoniker": "C3.NorthWind.BlazingPizza.GetToppings.Core\\Interactor\\GetToppingsInteractor.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\C3.NorthWind.BlazingPizza.GetToppings.Core\\Interactor\\GetToppingsInteractor.cs",
+              "RelativeToolTip": "C3.NorthWind.BlazingPizza.GetToppings.Core\\Interactor\\GetToppingsInteractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:35:19.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\C4.NorthWind.BlazingPizza.DataContexts\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "C4.NorthWind.BlazingPizza.DataContexts\\DependencyContainer.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\C4.NorthWind.BlazingPizza.DataContexts\\DependencyContainer.cs",
+              "RelativeToolTip": "C4.NorthWind.BlazingPizza.DataContexts\\DependencyContainer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:17:08.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.PlaceOrder.IoC\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.BlazingPizza.PlaceOrder.IoC\\DependencyContainer.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\NorthWind.BlazingPizza.PlaceOrder.IoC\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.BlazingPizza.PlaceOrder.IoC\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:20:48.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\introCA\\NorthWind.BlazingPizza\\C3.NorthWind.BlazingPizza.PlaceOrder.Repositories\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "C3.NorthWind.BlazingPizza.PlaceOrder.Repositories\\DependencyContainer.cs",
+              "ToolTip": "C:\\introCA\\NorthWind.BlazingPizza\\C3.NorthWind.BlazingPizza.PlaceOrder.Repositories\\DependencyContainer.cs",
+              "RelativeToolTip": "C3.NorthWind.BlazingPizza.PlaceOrder.Repositories\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:47:32.086Z"
             }
           ]
         },

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sj2eB4gYVIk=",
+  "success": true,
+  "projectFilePath": "C:\\introCA\\NorthWind.BlazingPizza\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\preya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\preya\\.nuget\\packages\\northwind.domainvalidation\\1.0.1\\northwind.domainvalidation.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

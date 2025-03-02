@@ -1,6 +1,21 @@
 @NorthWind.BlazingPizza.WebAPI_HostAddress = http://localhost:5259
 
-GET {{NorthWind.BlazingPizza.WebAPI_HostAddress}}/weatherforecast/
+GET {{NorthWind.BlazingPizza.WebAPI_HostAddress}}/gettoppings/
 Accept: application/json
 
 ###
+
+POST {{NorthWind.BlazingPizza.WebAPI_HostAddress}}/placeorder/
+Content-Type: application/json
+Accept: application/json
+{
+"DeliveryAddress":{
+   "addressLine2": "Colonia Centro",
+   "city": "Puebla",
+   "region": "Puebla",
+  "postalCode": "72500"
+ },
+"Pizzas": [
+
+ ]
+}

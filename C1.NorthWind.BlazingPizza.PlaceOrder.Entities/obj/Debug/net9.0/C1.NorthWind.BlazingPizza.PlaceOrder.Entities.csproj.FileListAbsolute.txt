@@ -1,0 +1,15 @@
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\bin\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.deps.json
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\bin\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.dll
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\bin\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.pdb
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj.AssemblyReference.cache
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.Resources.PlaceOrderMessagess.resources
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj.GenerateResource.cache
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.AssemblyInfoInputs.cache
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.AssemblyInfo.cs
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.csproj.CoreCompileInputs.cache
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.sourcelink.json
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.dll
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\obj\Debug\net9.0\refint\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.dll
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\obj\Debug\net9.0\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.pdb
+C:\introCA\NorthWind.BlazingPizza\C1.NorthWind.BlazingPizza.PlaceOrder.Entities\obj\Debug\net9.0\ref\C1.NorthWind.BlazingPizza.PlaceOrder.Entities.dll
